@@ -6,6 +6,8 @@ NetID: sd5292
 ## Evaluation 
 The files model_X=FOO%.md5 are reparied models ready for evaluation with the eval.py file found at https://github.com/csaw-hackml/CSAW-HackML-2020
 
+Please refer to REPORT.pdf for the report. 
+
 ## How to run 
 
 #### Google Colab
