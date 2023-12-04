@@ -1,7 +1,7 @@
 # BadNet_ML_CyberSec
-My submission to the "Backdoor attacks" assignment for Machine Learning in CyberSecurity
-Name: Sayam Dhingra
-NetID: sd5292
+My submission to the "Backdoor attacks" assignment for Machine Learning in CyberSecurity <br>
+Name: Sayam Dhingra <br>
+NetID: sd5292 
 
 ## How to run 
 
