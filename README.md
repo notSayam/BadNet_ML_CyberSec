@@ -4,7 +4,7 @@ Name: Sayam Dhingra <br>
 NetID: sd5292 
 
 ## Evaluation 
-The files model_X=FOO% are reparied models ready for evaluation with the eval.py file found at https://github.com/csaw-hackml/CSAW-HackML-2020
+The files model_X=FOO%.md5 are reparied models ready for evaluation with the eval.py file found at https://github.com/csaw-hackml/CSAW-HackML-2020
 
 ## How to run 
 
