@@ -13,17 +13,17 @@ NetID: sd5292
 ### FOR OTHER NOTEBOOKS
 In the code you will have to comment out the code cell 
 
-from google.colab import drive <br>
-drive.mount('/content/drive')
+_from google.colab import drive <br>
+drive.mount('/content/drive')_
 
 
 You will also have to change the varialbles below with the respective locations of the folders/files
 
-clean_data_filename = '/content/drive/MyDrive/lab3/data/cl/valid.h5' <br>
-poisoned_data_filename = '/content/drive/MyDrive/lab3/data/bd/bd_valid.h5' <br>
-model_filename = '/content/drive/MyDrive/lab3/model/bd_net.h5' <br>
-test_data_filename = '/content/drive/MyDrive/lab3/data/cl/test.h5' <br>
-poisoned_test_data_filename = '/content/drive/MyDrive/lab3/data/bd/bd_test.h5' <br>
+**clean_data_filename** = '/content/drive/MyDrive/lab3/data/cl/valid.h5' <br>
+**poisoned_data_filename** = '/content/drive/MyDrive/lab3/data/bd/bd_valid.h5' <br>
+**model_filename** = '/content/drive/MyDrive/lab3/model/bd_net.h5' <br>
+**test_data_filename** = '/content/drive/MyDrive/lab3/data/cl/test.h5' <br>
+**poisoned_test_data_filename** = '/content/drive/MyDrive/lab3/data/bd/bd_test.h5' <br>
 
 Next proceed with the steps, 
 
