@@ -5,12 +5,12 @@ NetID: sd5292
 
 ## How to run 
 
-### Google Colab
+#### Google Colab
 1. Add the "Backdoors.ipynb" file to google colab.
 2. From the link https://drive.google.com/drive/folders/1SoKPMKlfWyeFyliaPyAiRturTkanoiRl?usp=sharing download the "data" and "model" folders and add them to your google drive.
 4. Run all 
 
-### FOR OTHER NOTEBOOKS
+#### FOR OTHER NOTEBOOKS
 In the code you will have to comment out the code cell 
 
 _from google.colab import drive <br>
